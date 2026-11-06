@@ -14,16 +14,6 @@
  * (*=) Multiplicação e atribuição
  * (/=) Divisão e atribuição
  * 
- * Operadores condicionais
- * (==) Igualdade
- * (!=) Diferente
- * (>) Maior que
- * (<) Menor que
- * (>=) Maior ou igual a
- * (<=) Menor ou igual a
- * (&&) E lógico
- * (||) Ou lógico
- * (!) Negação
  */
 
 $valor1 = 10;
